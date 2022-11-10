@@ -2,7 +2,7 @@ const data = [
   {
     id: 17,
     name: "React Fireblog App",
-    image: "todolist",
+    image: "fireblog.png",
     url: "https://react-fireblog-app.netlify.app/",
     source: "https://github.com/mustafa-3/react-fireblog-app",
     tool: "react",
@@ -10,7 +10,7 @@ const data = [
   {
     id: 16,
     name: "React Movie App",
-    image: "Checkou Form",
+    image: "movieapp.png",
     url: "https://react-movie-app11.netlify.app/",
     source: "https://github.com/mustafa-3/react-movie-app",
     tool: "react",
@@ -18,7 +18,7 @@ const data = [
   {
     id: 15,
     name: "React Recipe App",
-    image: "sass project.jpg",
+    image: "recipeapp.png",
     url: "https://react-recipe-app7.netlify.app/",
     source: "https://github.com/mustafa-3/react-recipe-app",
     tool: "react",
@@ -26,7 +26,7 @@ const data = [
   {
     id: 14,
     name: "Random User React",
-    image: "",
+    image: "randomuser.png",
     url: "https://random-user-react2.netlify.app/",
     source: "https://github.com/mustafa-3/random-user-react",
     tool: "react",
@@ -34,7 +34,7 @@ const data = [
   {
     id: 13,
     name: "Weather App React",
-    image: "change background.gif",
+    image: "weatherreact.png",
     url: "https://weather-app-react3.netlify.app/",
     source: "https://github.com/mustafa-3/weather-app-react-2",
     tool: "react",
@@ -42,7 +42,7 @@ const data = [
   {
     id: 12,
     name: "TourPlaces React",
-    image: "css calculator",
+    image: "tourplaces.png",
     url: "https://tourproject1.netlify.app/",
     source: "https://github.com/mustafa-3/tourPlaces-react",
     tool: "react",
@@ -50,7 +50,7 @@ const data = [
   {
     id: 11,
     name: "Weather App",
-    image: "left-drop-down-menu",
+    image: "weatherjs.png",
     url: "https://js-weather-app3.netlify.app/",
     source: "https://github.com/mustafa-3/Weather-App",
     tool: "javascript",
@@ -58,7 +58,7 @@ const data = [
   {
     id: 10,
     name: "React LanguageCards",
-    image: "survey form.jpg",
+    image: "langcards.png",
     url: "https://language-cards2.netlify.app/",
     source: "https://github.com/mustafa-3/react-languageCards-",
     tool: "react",
@@ -66,7 +66,7 @@ const data = [
   {
     id: 9,
     name: "React Task Tracker",
-    image: "shopping box.jpg",
+    image: "tasktrac.png",
     url: "https://react-task-tracker-app1.netlify.app/",
     source: "https://github.com/mustafa-3/react-task_tracker",
     tool: "react",
@@ -74,7 +74,7 @@ const data = [
   {
     id: 8,
     name: "Parallax Website",
-    image: "google-clone.jpg",
+    image: "parallax.png",
     url: "https://mustafa-3.github.io/Parallax-Website/",
     source: "https://github.com/mustafa-3/Parallax-Website",
     tool: "css",
@@ -82,7 +82,7 @@ const data = [
   {
     id: 7,
     name: "toDo App",
-    image: "three card.jpg",
+    image: "todo.png",
     url: "https://mustafa-3.github.io/toDo-App/",
     source: "https://github.com/mustafa-3/toDo-App",
     tool: "javascript",
@@ -90,7 +90,7 @@ const data = [
   {
     id: 6,
     name: "Calculator",
-    image: "fourcard.jpg",
+    image: "calc.png",
     url: "https://mustafa-3.github.io/Calculator/",
     source: "https://github.com/mustafa-3/Calculator",
     tool: "javascript",
@@ -98,7 +98,7 @@ const data = [
   {
     id: 5,
     name: "Guess The Number",
-    image: "netflix.jpg",
+    image: "guesstheNum.png",
     url: "https://mustafa-3.github.io/Guess-The-Number/",
     source: "https://github.com/mustafa-3/Guess-The-Number",
     tool: "javascript",
@@ -106,7 +106,7 @@ const data = [
   {
     id: 4,
     name: "Voltran",
-    image: "voltran.gif",
+    image: "voltran.png",
     url: "https://mustafa-3.github.io/voltran/",
     source: "https://github.com/mustafa-3/voltran",
     tool: "css",
@@ -114,7 +114,7 @@ const data = [
   {
     id: 3,
     name: "Shopping Box",
-    image: "Contact Form.jpg",
+    image: "shoppingBox.png",
     url: "https://mustafa-3.github.io/shopping-box/",
     source: "https://github.com/mustafa-3/shopping-box",
     tool: "css",
