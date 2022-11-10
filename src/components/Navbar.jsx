@@ -13,7 +13,7 @@ const Navbar = () => {
           <Link to="/">
             <div className="lodoDiv text-decoration-none">
               {/* <img className="logo-img" src="images/logo.jpg" alt="logo" /> */}
-              <h5 className="btn btn-outline-primary">Özcan Çetin</h5>
+              <h5 className="btn btn-outline-primary">Mustafa SAĞUN</h5>
             </div>
           </Link>
           <button

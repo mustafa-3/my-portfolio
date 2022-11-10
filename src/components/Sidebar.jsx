@@ -11,10 +11,7 @@ const Sidebar = () => {
   return (
     <aside>
       <div className="icons linkedin text-light fs-3 d-flex justify-content-between align-items-center">
-        <Link
-          to="//www.linkedin.com/in/ozcan-cetin/"
-          target="_blank"
-        >
+        <Link to="//www.linkedin.com/in/mustafa-sagun1/" target="_blank">
           Linkedin
         </Link>
         <span className="display-5 d-flex align-items-center p-2">
@@ -23,7 +20,7 @@ const Sidebar = () => {
       </div>
 
       <div className="icons github text-light text-light fs-3 d-flex justify-content-between align-items-center">
-        <Link to="//github.com/ozcan-cetin" target="_blank">
+        <Link to="//github.com/mustafa-3" target="_blank">
           Github
         </Link>
         <span className="display-5 d-flex align-items-center p-2">
@@ -32,7 +29,7 @@ const Sidebar = () => {
       </div>
 
       <div className="icons email text-light fs-3 d-flex justify-content-between align-items-center">
-        <a href="mailto:cetin445@gmail.com" target="_blank">
+        <a href="mailto:sagunmustafa14@gmail.com" target="_blank">
           Email
         </a>
         <span className="display-5 d-flex align-items-center p-2">
