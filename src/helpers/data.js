@@ -18,7 +18,7 @@ const data = [
   {
     id: 20,
     name: "Clarusway-Survey-Form",
-    image: "Preview-profile.png",
+    image: "Preview-clarus.png",
     url: "https://mustafa-3.github.io/Clarusway-Survey-Form/",
     source: "https://github.com/mustafa-3/Clarusway-Survey-Form",
     tool: "css",
