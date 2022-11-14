@@ -1,5 +1,21 @@
 const data = [
   {
+    id: 24,
+    name: "credit-calculator-tool",
+    image: "Preview-credit.png",
+    url: "https://credit-calculator-tool1.netlify.app/",
+    source: "https://github.com/mustafa-3/credit-calculator-tool",
+    tool: "react",
+  },
+  {
+    id: 23,
+    name: "Checkout-Page",
+    image: "Preview-check.png",
+    url: "https://mustafa-3.github.io/Checkout-Page/",
+    source: "https://github.com/mustafa-3/Checkout-Page",
+    tool: "css",
+  },
+  {
     id: 22,
     name: "css-cards",
     image: "Preview-card.png",
